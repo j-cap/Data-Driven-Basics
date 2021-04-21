@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PlotBSpline/3163782288_375151190_1871488996.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PlotBSpline/1495979052_1438405273_3062941577.mp4'
