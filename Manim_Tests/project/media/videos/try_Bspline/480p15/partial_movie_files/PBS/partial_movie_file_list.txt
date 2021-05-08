@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PBS/3163782288_1573881988_2693800288.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PBS/1495979052_3898181856_1993397762.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PBS/1495979052_846354859_1490024832.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PBS/1495979052_4168789580_3652328669.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PBS/1495979052_1833891643_1055183882.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PBS/1495979052_2820716156_116603770.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PBS/1495979052_3850321306_2611876931.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PBS/1495979052_1760038006_880473000.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PBS/1495979052_3789309018_3755715800.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PBS/1495979052_3850321306_1532869459.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PBS/1495979052_1760038006_501092437.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/try_Bspline/480p15/partial_movie_files/PBS/1495979052_3789309018_2010300064.mp4'

@@ -1,14 +1,105 @@
 from manim import *
 
 from stareg.bspline import Bspline
+import numpy as np
+
+
+class PBS(GraphScene):
+    def __init__(self, **kwargs):
+        GraphScene.__init__(
+            self, 
+            y_min=-1.2,
+            y_max=1.2,
+            x_min=0.,
+            x_max=1., 
+            **kwargs
+        )
+
+    def construct(self):
+        self.setup_axes(animate=True)
+
+        BS = Bspline()
+        X = np.random.uniform(0,1,10)
+        Y = np.sin(2*np.pi*X) + np.random.normal(scale=0.05, size=10)
+       
+        self.setup_axes()
+        dot_collection = VGroup()
+        for time, val in enumerate(Y):
+            dot = Dot().move_to(self.coords_to_point(X[time], val))
+            self.add(dot)
+            dot_collection.add(dot)
+
+
+        B, knots = BS.basismatrix(np.linspace(0,1,1000)).values()
+        
+
+        graph = self.get_graph(
+            lambda x: float(BS.basisfunction(np.asarray(x), knots, 5, 1)), x_min=-0.2, x_max=1.2)
+        graph2 = self.get_graph(
+            lambda x: float(BS.basisfunction(np.asarray(x), knots, 6, 2)), x_min=-0.2, x_max=1.2)
+        graph3 = self.get_graph(
+            lambda x: float(BS.basisfunction(np.asarray(x), knots, 7, 3)), x_min=-0.2, x_max=1.2)
+        
+        graphs_linear = []
+        for i in range(0,B.shape[1]+1):
+            graphs_linear.append(self.get_graph(lambda x: float(
+                BS.basisfunction(np.asarray(x), knots, i, 1)), x_min=0, x_max=1))
+
+        #self.play(Create(graph))      # animate the creation of the square
+
+        for g in graphs_linear:
+            self.play(Create(g))
+        #path = self.get_graph(lambda x: 0, x_min=0, x_max=0.5)
+        #self.play(ShowCreation(path))
+        #self.play(MoveAlongPath(graph_copy, path))
+        #self.play(Transform(graph, graph2), runtime=2) # interpolate the square into the circle
+        #self.play(Transform(graph2, graph3), runtime=2) # interpolate the square into the circle
+
+        
+
+
+class Test(GraphScene):
+    def __init__(self, **kwargs):
+        GraphScene.__init__(
+            self, 
+            #y_min=-2,
+            #y_max=25,
+            #x_min=-3,
+            #x_max=10, 
+            **kwargs
+        )
+
+    def get_points_from_coords(self, coords):
+        return [self.coords_to_point(px, py) for px, py in coords]
+    def get_dots_from_coords(self, coords, radius=0.1):
+        points = self.get_points_from_coords(coords)
+        dots = VGroup(*[Dot(radius=radius).move_to([px,py, pz]) for px, py, pz in points])
+        return dots
+
+    def construct(self):
+        self.setup_axes(animate=True)
+        #path = self.get_graph(lambda x: (x-2)**2, x_min=2, x_max=-3)
+        #location = self.coords_to_point(2,0) #location: Point
+        #dot = Dot(location) #dot: Dot
+        #self.play(ShowCreation(path), ShowCreation(dot))
+        #self.play(MoveAlongPath(dot, path))
+
+        x = [0,1,2,3,4,5,6,7]
+        y = [0,1,4,9,16,25,20,10]
+        coords = [[px, py] for px, py in zip(x,y)]
+        #points = self.get_points_from_coords(coords)
+        dots = self.get_dots_from_coords(coords, 0.1)
+        self.add(dots)
+
+
 
 class PlotBSpline(Scene):
     # contributed by heejin_park, https://infograph.tistory.com/230
     def construct(self):
         self.show_axis()
-        self.show_circle()
-        self.move_dot_and_draw_curve()
-        self.wait()
+        #self.show_circle()
+        #self.move_dot_and_draw_curve()
+        #self.wait()
 
     def show_axis(self):
         x_start = np.array([-1,0,0])
@@ -21,20 +112,9 @@ class PlotBSpline(Scene):
         y_axis = Line(y_start, y_end)
 
         self.add(x_axis, y_axis)
-        self.add_x_labels()
 
-        self.origin_point = np.array([-4,0,0])
-        self.curve_start = np.array([-3,0,0])
-
-    def add_x_labels(self):
-        x_labels = [
-            MathTex("\pi"), MathTex("2 \pi"),
-            MathTex("3 \pi"), MathTex("4 \pi"),
-        ]
-
-        for i in range(len(x_labels)):
-            x_labels[i].next_to(np.array([-1 + 2*i, 0, 0]), DOWN)
-            self.add(x_labels[i])
+        self.origin_point = np.array([0,0,0])
+        self.curve_start = np.array([0,0,0])
 
     def show_circle(self):
         circle = Circle(radius=1)

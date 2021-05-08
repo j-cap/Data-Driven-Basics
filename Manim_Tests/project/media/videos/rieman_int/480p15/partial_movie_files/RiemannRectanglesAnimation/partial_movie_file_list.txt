@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/rieman_int/480p15/partial_movie_files/RiemannRectanglesAnimation/3163782288_511424131_1570785203.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/rieman_int/480p15/partial_movie_files/RiemannRectanglesAnimation/1495979052_1438405273_3218948792.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/rieman_int/480p15/partial_movie_files/RiemannRectanglesAnimation/1495979052_846973480_610857836.mp4'
+file 'file:C:/Users/jakob/Documents/Work-Related/Data-Driven-Basics/Manim_Tests/project/media/videos/rieman_int/480p15/partial_movie_files/RiemannRectanglesAnimation/1495979052_1438405273_4242955832.mp4'
