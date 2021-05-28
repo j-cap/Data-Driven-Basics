@@ -1,156 +1,196 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=latex 2021.4.21)  8 MAY 2021 14:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=latex 2021.5.2)  8 MAY 2021 15:06
 entering extended mode
 **./media/Tex/361ce8708c97c6ca.tex
 (media/Tex/361ce8708c97c6ca.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/standalone\standalone.c
-ls
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/standalone\standa
+lone.cls"
 Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
 dalone
 
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\shellesc.st
-y
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\shellesc.st
+y"
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.
+sty"
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
-)) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (
-C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+))
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.s
+ty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval
+.tex"
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutil
+s.tex"
 \XKV@toks=\toks15
 \XKV@tempa@toks=\toks16
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
-\XKV@depth=\count179
+
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\keyval.
+tex"))
+\XKV@depth=\count167
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-\sa@internal=\count180
-\c@sapage=\count181
+\sa@internal=\count168
+\c@sapage=\count169
 
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/standalone\standalone.c
-fg
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/standalone\standa
+lone.cfg"
 File: standalone.cfg 2018/03/26 v1.3a Default configuration file for 'standalon
 e' class
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+) ("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cl
+s"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count182
-\c@section=\count183
-\c@subsection=\count184
-\c@subsubsection=\count185
-\c@paragraph=\count186
-\c@subparagraph=\count187
-\c@figure=\count188
-\c@table=\count189
+\c@part=\count170
+\c@section=\count171
+\c@subsection=\count172
+\c@subsubsection=\count173
+\c@paragraph=\count174
+\c@subparagraph=\count175
+\c@figure=\count176
+\c@table=\count177
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/preview\preview.sty
-Package: preview 2017/04/24 12.3 (AUCTeX/preview-latex)
+\bibindent=\dimen134
+)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/preview\preview.s
+ty"
+Package: preview 2017/04/24 11.91 (AUCTeX/preview-latex)
 
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/generic/luatex85\luatex85.sty
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/luatex85\luatex
+85.sty"
 Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
 )
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/preview\prtightpage.def
-\PreviewBorder=\dimen139
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/preview\prtightpa
+ge.def"
+\PreviewBorder=\dimen135
 )
-\pr@snippet=\count190
-\pr@box=\box47
+\pr@snippet=\count178
+\pr@box=\box45
 \pr@output=\toks17
-)) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2021/04/07 3.57 The Babel package
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2021/04/07 3.57 Babel common definitions
-\babel@savecnt=\count191
-\U@D=\dimen140
-\l@babelnohyphens=\language79
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
-\bbl@readstream=\read2
+)) ("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+sty"
+Package: babel 2020/02/28 3.41 The Babel package
+
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.de
+f"
+File: switch.def 2020/02/28 3.41 Babel switching mechanism
 )
-\bbl@dirlevel=\count192
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
+"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
-df
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\eng
+lish.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
+"
+File: babel.def 2020/02/28 3.41 Babel common definitions
+\babel@savecnt=\count179
+\U@D=\dimen136
+
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.
+def")
+\bbl@readstream=\read2
+\bbl@dirlevel=\count180
+)
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language73) on input line 105.
+(babel)             (\language72) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language73) on input line 108.
-)) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2020/08/01 v1.3d Input encoding file
+(babel)             (\language72) on input line 108.
+)) ("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.
+sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2020/09/23 v2.17i AMS math features
+) ("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.st
+y"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip49
 For additional information on amsmath, use the `?' option.
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
 Package: amstext 2000/06/29 v2.01 AMS text
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
-\ex@=\dimen141
-)) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+\ex@=\dimen137
+))
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen142
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+\pmbraise@=\dimen138
+)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count193
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count194
-\leftroot@=\count195
-LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count196
-\DOTSCASE@=\count197
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box48
-\strutbox@=\box49
-\big@size=\dimen143
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count198
-\c@MaxMatrixCols=\count199
+\inf@bad=\count181
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count182
+\leftroot@=\count183
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count184
+\DOTSCASE@=\count185
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box46
+\strutbox@=\box47
+\big@size=\dimen139
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count186
+\c@MaxMatrixCols=\count187
 \dotsspace@=\muskip16
-\c@parentequation=\count266
-\dspbrk@lvl=\count267
+\c@parentequation=\count188
+\dspbrk@lvl=\count189
 \tag@help=\toks21
-\row@=\count268
-\column@=\count269
-\maxfields@=\count270
+\row@=\count190
+\column@=\count191
+\maxfields@=\count192
 \andhelp@=\toks22
-\eqnshift@=\dimen144
-\alignsep@=\dimen145
-\tagshift@=\dimen146
-\tagwidth@=\dimen147
-\totwidth@=\dimen148
-\lineht@=\dimen149
+\eqnshift@=\dimen140
+\alignsep@=\dimen141
+\tagshift@=\dimen142
+\tagwidth@=\dimen143
+\totwidth@=\dimen144
+\lineht@=\dimen145
 \@envbody=\toks23
 \multlinegap=\skip50
 \multlinetaggap=\skip51
 \mathdisplay@stack=\toks24
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.
+sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts
+.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -158,46 +198,55 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/doublestroke\dsfont.sty
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/doublestroke\dsfo
+nt.sty"
 Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace
+.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/tipa\tipa.sty
+) ("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tipa\tipa.sty"
 Package: tipa 2002/08/08 TIPA version 1.1
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3enc.def
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tipa\t3enc.def"
 File: t3enc.def 2001/12/31 T3 encoding
 Now handling font encoding T3 ...
 ... no UTF-8 mapping file for font encoding T3
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 3
 57.
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmss.fd"
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)))) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.st
-y
+))))
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/relsize\relsize.s
+ty"
 Package: relsize 2013/03/29 ver 4.1
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+) ("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.s
+ty"
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
+)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\mathrsfs
+.sty"
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup6
 )
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/fundus-calligra\calligr
-a.sty
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fundus-calligra\c
+alligra.sty"
 Package: calligra 2012/04/10 v1.9 LaTeX package calligra
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\wasysym.sty
+)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wasysym\wasysym.s
+ty"
 Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
 \symwasy=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 (Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
-Package: ragged2e 2021/02/05 v3.0 ragged2e Package
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/everysel\everysel.sty
-Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
-
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/everysel\everysel-2011-
-10-28.sty))
+)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ragged2e\ragged2e
+.sty"
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
 \CenteringLeftskip=\skip52
 \RaggedLeftLeftskip=\skip53
 \RaggedRightLeftskip=\skip54
@@ -212,36 +261,45 @@ Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
 \RaggedLeftParindent=\skip63
 \RaggedRightParindent=\skip64
 \JustifyingParindent=\skip65
-) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/physics\physics.sty
+)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/physics\physics.s
+ty"
 Package: physics 
 
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e.sty (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.st
-y
-Package: expl3 2021-02-18 L3 programming layer (loader) 
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse
+\xparse.sty"
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.st
+y"
+Package: expl3 2020-03-06 L3 programming layer (loader) 
 
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-dvi
-ps.def
-File: l3backend-dvips.def 2021-03-18 L3 backend support: dvips
-\l__pdf_internal_box=\box50
-\g__pdf_backend_object_int=\count271
-\l__pdf_backend_content_box=\box51
-\l__pdf_backend_model_box=\box52
-\g__pdf_backend_annotation_int=\count272
-\g__pdf_backend_link_int=\count273
-\g__pdf_backend_link_sf_int=\count274
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backe
+nd-dvips.def"
+File: l3backend-dvips.def 2020-03-12 L3 backend support: dvips
+\l__pdf_internal_box=\box48
+\g__pdf_backend_object_int=\count193
+\l__pdf_backend_content_box=\box49
+\l__pdf_backend_model_box=\box50
+\g__pdf_backend_annotation_int=\count194
+\g__pdf_backend_link_int=\count195
+\g__pdf_backend_link_sf_int=\count196
 ))
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e-2020-10-01.sty
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e-generic.tex)))) (C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/xcolo
-r\xcolor.sty
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count197
+\g__xparse_grabber_int=\count198
+\l__xparse_m_args_int=\count199
+\l__xparse_v_nesting_int=\count266
+)) ("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.
+sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\colo
+r.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: dvips.def on input line 225.
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\dvips.def
+
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\dvip
+s.def"
 File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -253,27 +311,29 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
-Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microty
+pe.sty"
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
 \MT@toks=\toks25
-\MT@count=\count275
+\MT@count=\count267
 LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen150
-LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
-\MT@listname@count=\count276
+\MT@outer@kern=\dimen146
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count268
 
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
-tex.def
-File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microty
+pe-pdftex.def"
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 915.
-LaTeX Info: Redefining \lslig on input line 915.
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
 \MT@outer@space=\skip66
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
-File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microty
+pe.cfg"
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
 ))
 No file 361ce8708c97c6ca.aux.
 \openout1 = `361ce8708c97c6ca.aux'.
@@ -295,7 +355,7 @@ LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for T3+cmr on input line 23
 .
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3cmr.fd
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tipa\t3cmr.fd"
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -310,22 +370,24 @@ Package microtype Info: No font expansion.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-(C:\Users\jakob\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+
+("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-cmr.
+cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 Preview: Tightpage 0 0 0 0
 [1]
-(C:\Users\jakob\Documents\Work-Related\Data-Driven-Basics\Manim_Tests\media\Tex
-\361ce8708c97c6ca.aux) ) 
+(C:\Users\WeberJ\Documents\jweber\Data-Driven-Basics\Manim_Tests\media\Tex\361c
+e8708c97c6ca.aux) ) 
 Here is how much of TeX's memory you used:
- 7151 strings out of 479322
- 105125 string characters out of 2856609
- 441292 words of memory out of 3000000
- 24515 multiletter control sequences out of 15000+600000
- 407235 words of font info for 32 fonts, out of 8000000 for 9000
+ 7225 strings out of 480935
+ 110540 string characters out of 2899476
+ 396615 words of memory out of 3000000
+ 22999 multiletter control sequences out of 15000+200000
+ 536143 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,2n,89p,354b,169s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,2n,60p,354b,159s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on C:\Users\jakob\Documents\Work-Related\Data-Driven-Basics\Mani
-m_Tests\media\Tex\361ce8708c97c6ca.dvi (1 page, 1704 bytes).
+Output written on C:\Users\WeberJ\Documents\jweber\Data-Driven-Basics\Manim_Tes
+ts\media\Tex\361ce8708c97c6ca.dvi (1 page, 1700 bytes).

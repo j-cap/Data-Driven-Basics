@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=latex 2021.5.2)  8 MAY 2021 15:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=latex 2021.5.2)  8 MAY 2021 15:06
 entering extended mode
-**./media/Tex/03d0e5f954bf54b8.tex
-(media/Tex/03d0e5f954bf54b8.tex
+**./media/Tex/fd1add4f30c4891f.tex
+(media/Tex/fd1add4f30c4891f.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 ("C:\Users\WeberJ\AppData\Local\Programs\MiKTeX 2.9\tex/latex/standalone\standa
@@ -335,8 +335,8 @@ Package microtype Info: Loading configuration file microtype.cfg.
 pe.cfg"
 File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
 ))
-No file 03d0e5f954bf54b8.aux.
-\openout1 = `03d0e5f954bf54b8.aux'.
+No file fd1add4f30c4891f.aux.
+\openout1 = `fd1add4f30c4891f.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
@@ -378,8 +378,8 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 )
 Preview: Tightpage 0 0 0 0
 [1]
-(C:\Users\WeberJ\Documents\jweber\Data-Driven-Basics\Manim_Tests\media\Tex\03d0
-e5f954bf54b8.aux) ) 
+(C:\Users\WeberJ\Documents\jweber\Data-Driven-Basics\Manim_Tests\media\Tex\fd1a
+dd4f30c4891f.aux) ) 
 Here is how much of TeX's memory you used:
  7225 strings out of 480935
  110540 string characters out of 2899476
@@ -390,4 +390,4 @@ Here is how much of TeX's memory you used:
  44i,2n,60p,354b,159s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on C:\Users\WeberJ\Documents\jweber\Data-Driven-Basics\Manim_Tes
-ts\media\Tex\03d0e5f954bf54b8.dvi (1 page, 1676 bytes).
+ts\media\Tex\fd1add4f30c4891f.dvi (1 page, 1688 bytes).
