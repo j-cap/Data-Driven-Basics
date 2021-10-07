@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Test/1778658159_498063727_3485929896.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Test/3673297317_1327348156_260207182.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Test/2774769659_2488591266_260207182.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Test/1579485579_1327348156_260207182.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Test/780813499_315614182_1126494721.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Test/780813499_277506212_2080773619.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Test/780813499_3530791309_1635052176.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Test/780813499_2285157398_548445358.mp4'

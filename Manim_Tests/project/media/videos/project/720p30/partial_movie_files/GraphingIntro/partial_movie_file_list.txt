@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/GraphingIntro/1342159004_481973005_79973411.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/GraphingIntro/1353618911_2916361779_4148231019.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/GraphingIntro/1353618911_3493041802_94602573.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/GraphingIntro/1353618911_727234088_4002958585.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/GraphingIntro/1353618911_3493041802_4068048004.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/GraphingIntro/1353618911_1999241898_2659901765.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/GraphingIntro/1353618911_2475150454_4279088624.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/GraphingIntro/1353618911_3493041802_4181798965.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/GraphingIntro/1353618911_36832650_4091457543.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/GraphingIntro/1353618911_3493041802_4053416917.mp4'

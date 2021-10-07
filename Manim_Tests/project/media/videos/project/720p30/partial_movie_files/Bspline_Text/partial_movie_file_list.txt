@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/Bspline_Text/1342159004_3331169618_3298737799.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/Bspline_Text/1353618911_2039953744_3211978564.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/Bspline_Text/1353618911_2559461702_3325565820.mp4'

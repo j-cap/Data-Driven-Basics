@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Tute1/3163782288_3975577666_78173082.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Tute1/2201830969_1462174766_78173082.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Tute1/2201830969_3493041802_2263780258.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Tute1/2201830969_1135034700_289057705.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Tute1/2201830969_1515588106_537838471.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Tute1/2201830969_2364186547_525086050.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Tute1/1495979052_3493041802_1015383503.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Tute1/2201830969_316830421_147479300.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Tute1/1495979052_3493041802_3405034867.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Tute1/2201830969_4004327482_3953142348.mp4'
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/480p15/partial_movie_files/Tute1/2201830969_3493041802_1747868219.mp4'

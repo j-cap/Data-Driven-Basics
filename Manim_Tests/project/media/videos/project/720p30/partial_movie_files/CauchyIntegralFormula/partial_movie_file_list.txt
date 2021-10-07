@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/WeberJ/Documents/Data-Driven-Basics/Manim_Tests/project/media/videos/project/720p30/partial_movie_files/CauchyIntegralFormula/1342159004_923699445_4070126768.mp4'
